@@ -1,2 +1,2 @@
 # avx_language
-this code will translate and force C code into avx instructions in assembly
+demo file of trying optimize code from c to using avx2 instruction set
